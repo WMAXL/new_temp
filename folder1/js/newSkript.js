@@ -1,1 +1,1 @@
-console.log ('temp')
+(function () {console.log ('temp')})();
