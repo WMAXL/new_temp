@@ -1,0 +1,12 @@
+git config --global user.name
+git config --global user.email
+
+
+git status --- показывает файлы не в qit-е
+
+git add [назв файла можно несколько через пробел]
+
+git add . --- индексировать все файлы
+
+
+
